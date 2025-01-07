@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karunamoorthy23/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Karunamoorthy23/Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karunamoorthy23/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Karunamoorthy23/Leetcode/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
